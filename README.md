@@ -41,5 +41,3 @@ Open your browser and go to `http://localhost:3000` to play the game.
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
